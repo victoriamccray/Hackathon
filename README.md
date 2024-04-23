@@ -49,21 +49,21 @@ This workshop aims to equip participants with the skills necessary to contribute
 ## Additional Resources and Inspiration
 
 African Brain Data Network
-SPARC Africa
-Society for Neuroscientists in Africa
-International Brain Research Organization
-International Consortium of Genetics
-Black In Neuro
-ALBA
-brainlife.io
-EBRAIN
-Women in Neuroscience Nigeria
-Kavli Foundation
-African Biogenome Project
-Hack Diversity
-TREND in Africa
-[NAAMII] (https://www.naamii.org.np/)
-Women in Data Science
-African Research Academy for Women
-Brain Wellness Africa Initiative
-International Society for Computational Biology
+<br>SPARC Africa
+<br>Society for Neuroscientists in Africa
+<br>International Brain Research Organization
+<br>International Consortium of Genetics
+<br>Black In Neuro
+<br>ALBA
+<br>brainlife.io
+<br>EBRAIN
+<br>Women in Neuroscience Nigeria
+<br>Kavli Foundation
+<br>African Biogenome Project
+<br>Hack Diversity
+<br>TREND in Africa
+<br>[NAAMII] (https://www.naamii.org.np/)
+<br>Women in Data Science
+<br>African Research Academy for Women
+<br>Brain Wellness Africa Initiative
+<br>International Society for Computational Biology
