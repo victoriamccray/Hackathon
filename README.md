@@ -1,6 +1,8 @@
 # Hackathon
 Open Science Neuro Hackathon and Workshop
 
+The primary aim of this project is to offer a hackathon that addresses research challenges for neuroscientists of the African diaspora. The project facilitates the development of open-source and community-based research tools that can alleviate financial burdens for neuroscientists. The aims of the project are to increase access to neuroimaging technology and open-source analytical techniques on the African continent and globally, where scientists face challenges in these resources. Moreover, STEM fields broadly lack diverse and inclusive outreach for underrepresented, historically marginalized and underfunded communities.
+
 # Workshop
 
 Computational Neuroscience Hackathon: Python for Neuroimaging Data
