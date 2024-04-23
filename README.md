@@ -61,7 +61,7 @@ This workshop aims to equip participants with the skills necessary to contribute
 <br>[Kavli Foundation](https://www.kavlifoundation.org/)
 <br>[African Biogenome Project](https://africanbiogenome.org/)
 <br>[Hack Diversity](https://www.hackdiversity.com/)
-<br>[TREND in Africa](https://trendinafrica.org/)
+<br>[TReND in Africa](https://trendinafrica.org/)
 <br>[NAAMII](https://www.naamii.org.np/)
 <br>[Women in Data Science Worldwide](https://www.widsworldwide.org/)
 <br>[African Research Academy for Women](https://www.africanwomenresearchers.org/)
