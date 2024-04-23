@@ -62,7 +62,7 @@ African Brain Data Network
 <br>African Biogenome Project
 <br>Hack Diversity
 <br>TREND in Africa
-<br> [NAAMII] (https://www.naamii.org.np/)
+<br> [NAAMII](https://www.naamii.org.np/)
 <br>Women in Data Science
 <br>African Research Academy for Women
 <br>Brain Wellness Africa Initiative
