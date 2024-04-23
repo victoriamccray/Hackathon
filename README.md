@@ -1,5 +1,5 @@
 # Hackathon
-NeuroData Open Science Hackathon and Workshop
+Open Science Neuro Hackathon and Workshop
 
 # Workshop
 
