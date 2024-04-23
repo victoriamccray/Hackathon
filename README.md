@@ -31,7 +31,7 @@ This workshop aims to equip participants with the skills necessary to contribute
 ### 3. Neuroscience Applications
 - Open-source libraries for neuroimaging, electrophysiology, and neuroinformatics
 - Exploring applications with libraries like nibabel, open ephys, and/or nilearn
-- Signal processing using Python for EEG and fMRI data.
+- Signal processing using Python for EEG and fMRI data
 
 ### 4. Contributing to Open-Source Projects
 - Understanding the principles and best practices for open-source collaboration
