@@ -48,22 +48,22 @@ This workshop aims to equip participants with the skills necessary to contribute
 
 ## Additional Resources and Inspiration
 
-African Brain Data Network
-<br>SPARC Africa
-<br>Society for Neuroscientists in Africa
-<br>International Brain Research Organization
-<br>International Consortium of Genetics
-<br>Black In Neuro
-<br>ALBA
-<br>brainlife.io
-<br>EBRAIN
-<br>Women in Neuroscience Nigeria
-<br>Kavli Foundation
-<br>African Biogenome Project
-<br>Hack Diversity
-<br>TREND in Africa
-<br> [NAAMII](https://www.naamii.org.np/)
-<br>Women in Data Science
-<br>African Research Academy for Women
-<br>Brain Wellness Africa Initiative
-<br>International Society for Computational Biology
+[African Brain Data Network](https://africanbraindatanetwork.com/)
+<br>[SPARC Africa](https://sparcopen.org/people/sparc-africa/)
+<br>[Society for Neuroscientists in Africa](https://sonafrica.org/)
+<br>[International Brain Research Organization](https://ibro.org/)
+<br>[Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/)
+<br>[Black In Neuro](https://blackinneuro.com/)
+<br>[ALBA](https://www.alba.network/)
+<br>[brainlife.io](https://brainlife.io/about/)
+<br>[EBRAINS](https://www.ebrains.eu/)
+<br>[Women in Neuroscience Nigeria](https://www.winng.org.ng/)
+<br>[Kavli Foundation](https://www.kavlifoundation.org/)
+<br>[African Biogenome Project](https://africanbiogenome.org/)
+<br>[Hack Diversity](https://www.hackdiversity.com/)
+<br>[TREND in Africa](https://trendinafrica.org/)
+<br>[NAAMII](https://www.naamii.org.np/)
+<br>[Women in Data Science Worldwide](https://www.widsworldwide.org/)
+<br>[African Research Academy for Women](https://www.africanwomenresearchers.org/)
+<br>[Brain Research Africa](https://brainafrica.org/)
+<br>[International Society for Computational Biology](https://www.iscb.org/)
