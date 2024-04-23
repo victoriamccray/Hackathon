@@ -28,12 +28,12 @@ This workshop aims to equip participants with the skills necessary to contribute
 - Forking and cloning code repositories
 - Making contributions to code through pull requests
 
-### 3. Neuroscience Applications:
+### 3. Neuroscience Applications
 - Open-source libraries for neuroimaging, electrophysiology, and neuroinformatics
 - Exploring applications with libraries like nibabel, open ephys, and/or nilearn
 - Signal processing using Python for EEG and fMRI data.
 
-### 4. Contributing to Open-Source Projects:
+### 4. Contributing to Open-Source Projects
 - Understanding the principles and best practices for open-source collaboration
 - Identifying beginner-friendly open-source projects in neuroscience
 - Hands-on guidance for making contributions
