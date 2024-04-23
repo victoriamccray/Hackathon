@@ -4,6 +4,7 @@ NeuroData Open Science Hackathon and Workshop
 # Workshop
 
 Computational Neuroscience Hackathon: Python for Neuroimaging Data
+
 Instructor/Facilitator: Victoria McCray, M.S. Candidate in Bioinformatics
 
 This workshop aims to equip participants with the skills necessary to contribute to open-source neuroscience projects using Python and GitHub. Attendees will learn how to navigate open-source collaboration, use Python for neuroscientific analysis, and contribute to existing projects on GitHub. This workshop is designed for students, researchers, and professionals in neuroscience who are interested in open-source collaboration and programming knowledge in Python and GitHub. 
