@@ -7,12 +7,11 @@ The primary aim of this project is to offer a hackathon that addresses research 
 
 Computational Neuroscience Hackathon: Python for Neuroimaging Data
 
-Instructor/Facilitator: Victoria McCray, M.S. Candidate in Bioinformatics
+*Instructor/Facilitator: Victoria McCray, M.S. Candidate in Bioinformatics*
 
-Duration: 2-4 Weeks
-
-Dates: TBD November 2024 - Jan 2025
-
+*Duration: 2-4 Weeks*
+<br>*Location: TBD*
+*Dates: TBD (November 2024 - Jan 2025)*
 
 
 This workshop aims to equip participants with the skills necessary to contribute to open-source neuroscience projects using Python and GitHub. Attendees will learn how to navigate open-source collaboration, use Python for neuroscientific analysis, and contribute to existing projects on GitHub. This workshop is designed for students, researchers, and professionals in neuroscience who are interested in open-source collaboration and programming knowledge in Python and GitHub. 
