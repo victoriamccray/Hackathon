@@ -13,6 +13,8 @@ Computational Neuroscience Hackathon: Python for Neuroimaging Data
 <br>Najja Marshall, PhD
 <br>Eberechi Wogu, PhD
 <br>Elizabeth Bandason, PhD
+
+**Teaching Assistant**
 <br>Dennis Makwakwa
 
 <br>*Location: Lilongwe University for Agriculture and Natural Resources*
