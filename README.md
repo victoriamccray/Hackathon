@@ -7,12 +7,13 @@ The two week program bridges interdisciplinary topics such as neuroscience, data
 
 Computational Neuroscience Hackathon: Python for Neuroimaging Data
 
-*Facilitators:
+**Facilitators:**
+<br>
 <br>Victoria McCray
-<br>Najja Marshall
-<br>Eberechi Wogu
-<br>Elizabeth Bandason
-<br>Dennis Makwakwa*
+<br>Najja Marshall, PhD
+<br>Eberechi Wogu, PhD
+<br>Elizabeth Bandason, PhD
+<br>Dennis Makwakwa
 
 <br>*Location: Lilongwe University for Agriculture and Natural Resources*
 *Dates: Feb 10 - 21, 2025*
