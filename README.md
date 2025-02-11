@@ -1,5 +1,5 @@
 # Hackathon
-Open Science Neuro Hackathon and Workshop
+Open Science Neuro Hackathon
 
 The two week program bridges interdisciplinary topics such as neuroscience, data science, ethics, and open access frameworks. Attendees will receive hands-on instruction and problem-solving experience by developing novel hackathon solutions. The course is Python-intensive and lectures will introduce neuroimaging data preparation, processing, and modeling. Attendees may present their solutions to their peers in a knowledge sharing environment.
 
