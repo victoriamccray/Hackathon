@@ -5,8 +5,6 @@ The two week program bridges interdisciplinary topics such as neuroscience, data
 
 # Short Course
 
-Computational Neuroscience Hackathon: Python for Neuroimaging Data
-
 **Facilitators:**
 <br>
 <br>Victoria McCray
@@ -18,11 +16,10 @@ Computational Neuroscience Hackathon: Python for Neuroimaging Data
 <br>
 <br>Dennis Makwakwa
 
-<br>*Location: Lilongwe University for Agriculture and Natural Resources*
-*Dates: Feb 10 - 21, 2025*
-
-
-This workshop aims to equip participants with the skills necessary to contribute to open-source neuroscience projects using Python and GitHub. Attendees will learn how to navigate open-source collaboration, use Python for neuroscientific analysis, and contribute to existing projects on GitHub. This workshop is designed for students, researchers, and professionals in neuroscience who are interested in open-source collaboration and programming knowledge in Python and GitHub. 
+<br>**Location:**
+Lilongwe University for Agriculture and Natural Resources
+<br>**Dates:**
+Feb 10 - 21, 2025
 
 ## Agenda
 
@@ -44,9 +41,9 @@ This workshop aims to equip participants with the skills necessary to contribute
 - Leverage computing frameworks for large data
 
 ### 4. Data Science Applications
-- Understand the foundations of connectivity analysis and the implications of preprocessing decisions on results.=
+- Understand the foundations of connectivity analysis and the implications of preprocessing decisions on results
 
-### Neuroethics and Bias
+### 5. Neuroethics and Bias
 - Understanding of open-source principles and collaborative workflows
 - Proficiency in using Python for neuroscientific analysis
 - Practical experience in contributing to open-source projects on GitHub
