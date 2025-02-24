@@ -1,5 +1,5 @@
 # Hackathon
-Open Science Neuro Hackathon
+Open (Data) Science Neuro Hackathon
 
 The two week program bridges interdisciplinary topics such as neuroscience, data science, ethics, and open access frameworks. Attendees will receive hands-on instruction and problem-solving experience by developing novel hackathon solutions. The course is Python-intensive and lectures will introduce neuroimaging data preparation, processing, and modeling. Attendees may present their solutions to their peers in a knowledge sharing environment.
 
@@ -30,9 +30,10 @@ Feb 10 - 21, 2025
 - Exposure to standard libraries for data processing like NumPy, Matplotlib and Pandas
 
 ### 2. Introduction to Neuroscience and Neuroimaging
-- Navigating and configuring GitHub/Git platforms
-- Forking and cloning code repositories
-- Making contributions to code through pull requests
+- Metaphors for the brain and historical understanding of the nervous system
+- Modern neuroimaging techniques including fMRI and EEG
+- Structural and functional imaging types and data acquisition
+- Exposure to open-source libraries for neuroimaging, electrophysiology, and neuroinformatics
 
 ### 3. Python Ecosystem for Neuroimaging
 - Learn essential Python libraries for neuroimaging workflows
@@ -41,7 +42,10 @@ Feb 10 - 21, 2025
 - Leverage computing frameworks for large data
 
 ### 4. Data Science Applications
-- Understand the foundations of connectivity analysis and the implications of preprocessing decisions on results
+- Explore data science and machine learning techniques
+- Understand the foundations of Graph Theory and Network Analysis
+- Implement applications for brain data and neuroimaging
+- Evaluate the implications of preprocessing steps and decisions on results
 
 ### 5. Neuroethics and Bias
 - Understanding of open-source principles and collaborative workflows
@@ -49,7 +53,26 @@ Feb 10 - 21, 2025
 - Practical experience in contributing to open-source projects on GitHub
 - Insight into real-world applications of Python in neuroscience
 
-## Additional Resources and Inspiration
+### 6. Open Science in Africa
+- Discuss modern efforts to increase open access, open-source, and educational applications within the African continent
+- Learn from leading organizations such as the African Brain Data Network on techniques for capacity building
+
+### 7. Neuromotor Interfaces for Human Computer Interaction
+- Exposure to novel techniques for reading and processing neuromotor activity
+- An interactive tutorial for classification of gestures in Python with EMG data
+
+### 8 and 9. Hackathon Solution Development
+- Participants build a novel data science application using data from biological systems
+
+### 10. Solution Presentations and Program Close
+- Students and participants present their models, applications, and analyses for feedback from others
+- Closing remarks from LUANAR Vice Chancellor's office, Agricultural Policy Analysis, Department of Horticulture, facilitators and participants
+
+## Additional Resources
+
+A compiled opportunity list for relevant courses, trainings, and continued learning from TReND in Africa, Black In Neuro, and other organizations: https://docs.google.com/spreadsheets/d/1HC4_1JtP9Md8OreAJPa7eFLNZDCsg4-gwbw0l6PCt-c/edit?usp=sharing
+
+## Additional Inspiration
 
 [African Brain Data Network](https://africanbraindatanetwork.com/)
 <br>[SPARC Africa](https://sparcopen.org/people/sparc-africa/)
@@ -72,7 +95,7 @@ Feb 10 - 21, 2025
 <br>[International Society for Computational Biology](https://www.iscb.org/)
 
 ## Acknowledgements
-This project is made possible through the support of multiple collaborative partners. I would like to extend my gratitude to my mentor Juliet Davidow and the support of the Learning and Brain Development Lab for guidance on the vision. The in-person workshop is coordinated with the support of TReND in Africa, and I extend my thanks to the organization for the collaboration. The hackathon is made possible through the collaborative support of Black In Neuro and contributions from Facebook Reality Labs at Meta. I would also like to thank the Center for Emerging Markets at Northeastern University for the support as a recipient of the Srinivasan Award that is able to facilitate the project.
+This project is made possible through the support of multiple collaborative partners. I would like to extend my gratitude to my mentor Juliet Davidow and the support of the Learning and Brain Development Lab for guidance on the vision. I am grateful to TReND in Africa for cultivating and facilitating the partnership with Lilongwe University for Agriculture and Natural Resources (LUANAR). The in-person workshop is coordinated with the support of Agriculture and Policy Analysis at LUANAR, and I extend my warm thank you to the organization for the collaboration. The hackathon is made possible through the collaborative support of Black In Neuro and contributions from Meta Reality Labs. I would also like to thank the Center for Emerging Markets at Northeastern University for the support as a recipient of the Srinivasan Award that was able to facilitate the project.
 
 ## Contributors and Special Thanks
 Claire Fielder, Research Assistant
