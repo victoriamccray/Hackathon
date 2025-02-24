@@ -117,4 +117,4 @@ This project is made possible through the support of multiple collaborative part
 
 ## Contributors and Special Thanks
 Claire Fielder, Research Assistant
-<br>Learning and Brain Development Lab
+<br>Learning and Brain Development Lab, Northeastern University
