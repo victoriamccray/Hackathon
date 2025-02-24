@@ -69,12 +69,12 @@ Feb 10 - 21, 2025
 - Discuss experimental, inferential, and algorithmic biases
 
 ### Days 7–8: Open Science in Africa
-**Presenter: Eberechi Wogu, African Brain Data Network**
+**Presenter: Eberechi Wogu, PhD**
 - Discuss modern efforts to increase open access, open-source, and educational applications within the African continent  
 - Learn from leading organizations such as the African Brain Data Network on techniques for capacity building  
 
 ### Days 8–9: Neuromotor Interfaces for Human-Computer Interaction
-**Presenter: Najja Marshall, Meta Reality Labs**
+**Presenter: Najja Marshall, PhD**
 - Exposure to novel techniques for reading and processing neuromotor activity  
 - An interactive tutorial for classification of gestures in Python with EMG data  
 
