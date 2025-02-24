@@ -21,52 +21,52 @@ Lilongwe University for Agriculture and Natural Resources
 <br>**Dates:**
 Feb 10 - 21, 2025
 
-## Agenda
+## Daily Agenda  
 
-### 1. Introduction to Python for Data Analysis
-- Learning data types, syntax and structures for programming in Python
-- Principles for data visualization, data pipelines, and handling large datasets efficiently
-- Introduction to exploratory analysis and statistical analysis techniques using Python
-- Exposure to standard libraries for data processing like NumPy, Matplotlib and Pandas
+### Day 1: Introduction to Python for Data Analysis  
+- Learning data types, syntax, and structures for programming in Python  
+- Principles for data visualization, data pipelines, and handling large datasets efficiently  
+- Introduction to exploratory analysis and statistical analysis techniques using Python  
+- Exposure to standard libraries for data processing like NumPy, Matplotlib, and Pandas  
 
-### 2. Introduction to Neuroscience and Neuroimaging
-- Metaphors for the brain and historical understanding of the nervous system
-- Modern neuroimaging techniques including fMRI and EEG
-- Structural and functional imaging types and data acquisition
-- Exposure to open-source libraries for neuroimaging, electrophysiology, and neuroinformatics
+### Day 2: Introduction to Neuroscience and Neuroimaging  
+- Metaphors for the brain and historical understanding of the nervous system  
+- Modern neuroimaging techniques including fMRI and EEG  
+- Structural and functional imaging types and data acquisition  
+- Exposure to open-source libraries for neuroimaging, electrophysiology, and neuroinformatics  
 
-### 3. Python Ecosystem for Neuroimaging
-- Learn essential Python libraries for neuroimaging workflows
-- Work with BIDS/NIfTI formats and Nilearn
-- Manage datasets with DataLad
-- Leverage computing frameworks for large data
+### Day 3: Python Ecosystem for Neuroimaging  
+- Learn essential Python libraries for neuroimaging workflows  
+- Work with BIDS/NIfTI formats and Nilearn  
+- Manage datasets with DataLad  
+- Leverage computing frameworks for large data  
 
-### 4. Data Science Applications
-- Explore data science and machine learning techniques
-- Understand the foundations of Graph Theory and Network Analysis
-- Implement applications for brain data and neuroimaging
-- Evaluate the implications of preprocessing steps and decisions on results
+### Days 4–5: Data Science Applications  
+- Explore data science and machine learning techniques  
+- Understand the foundations of Graph Theory and Network Analysis  
+- Implement applications for brain data and neuroimaging  
+- Evaluate the implications of preprocessing steps and decisions on results  
 
-### 5. Neuroethics and Bias
-- Understanding of open-source principles and collaborative workflows
-- Proficiency in using Python for neuroscientific analysis
-- Practical experience in contributing to open-source projects on GitHub
-- Insight into real-world applications of Python in neuroscience
+### Day 6: Neuroethics and Bias  
+- Understanding open-source principles and collaborative workflows  
+- Proficiency in using Python for neuroscientific analysis  
+- Practical experience in contributing to open-source projects on GitHub  
+- Insight into real-world applications of Python in neuroscience  
 
-### 6. Open Science in Africa
-- Discuss modern efforts to increase open access, open-source, and educational applications within the African continent
-- Learn from leading organizations such as the African Brain Data Network on techniques for capacity building
+### Days 7–8: Open Science in Africa  
+- Discuss modern efforts to increase open access, open-source, and educational applications within the African continent  
+- Learn from leading organizations such as the African Brain Data Network on techniques for capacity building  
 
-### 7. Neuromotor Interfaces for Human Computer Interaction
-- Exposure to novel techniques for reading and processing neuromotor activity
-- An interactive tutorial for classification of gestures in Python with EMG data
+### Days 8–9: Neuromotor Interfaces for Human-Computer Interaction  
+- Exposure to novel techniques for reading and processing neuromotor activity  
+- An interactive tutorial for classification of gestures in Python with EMG data  
 
-### 8 and 9. Hackathon Solution Development
-- Participants build a novel data science application using data from biological systems
+### Days 6–9: Hackathon Solution Development  
+- Participants build a novel data science application using data from biological systems  
 
-### 10. Solution Presentations and Program Close
-- Students and participants present their models, applications, and analyses for feedback from others
-- Closing remarks from LUANAR Vice Chancellor's office, Agricultural Policy Analysis, Department of Horticulture, facilitators and participants
+### Day 10: Solution Presentations and Program Close  
+- Students and participants present their models, applications, and analyses for feed
+
 
 ## Additional Resources
 
