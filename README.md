@@ -7,13 +7,17 @@ The two week program bridges interdisciplinary topics such as neuroscience, data
 **Facilitators:**
 <br>
 <br>Victoria McCray
+<br>Health Data Scientist | Director, Black In Neuro | MS Candidate in Bioinformatics, Northeastern University
 <br>Najja Marshall, PhD
+<br>Research Scientist, Meta Reality Labs
 <br>Eberechi Wogu, PhD
+<br>Director, African Brain Data Network | Neuroanatomy Lecturer, University of Port Harcourt, Nigeria
 <br>Elizabeth Bandason, PhD
 
 **Teaching Assistant:**
 <br>
 <br>Dennis Makwakwa
+<br>Sr. Full Stack Engineer, LUANAR | MS Candidate in Artificial Intelligence, International University of Applied Sciences
 
 <br>**Location:**
 Lilongwe University for Agriculture and Natural Resources
