@@ -53,10 +53,10 @@ Feb 10 - 21, 2025
 
 ### Day 6: Neuroethics and Bias
 **Presenter: Victoria McCray**
-- Understanding open-source principles and collaborative workflows  
-- Proficiency in using Python for neuroscientific analysis  
-- Practical experience in contributing to open-source projects on GitHub  
-- Insight into real-world applications of Python in neuroscience  
+- Understand the significance of fairness and inclusivity in AI and neurotechnology
+- Explore the ethical implications of emerging technologies, particularly in neuroimaging and AI
+- Inclusive practices for data collection in experimental and clinical research
+- Discuss experimental, inferential, and algorithmic biases
 
 ### Days 7–8: Open Science in Africa
 **Presenter: Eberechi Wogu, African Brain Data Network**
