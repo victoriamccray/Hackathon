@@ -73,7 +73,7 @@ Feb 10 - 21, 2025
 
 ### Day 10: Solution Presentations and Program Close
 **Presenters: Hackathon Participants**
-- Students and participants present their models, applications, and analyses for feed
+- Students and participants present their models, applications, and analyses for feedback
 
 
 ## Additional Resources
