@@ -17,3 +17,6 @@
 - Closing remarks from APA, LUANAR
 - Closing remarks from participants
 - Certificates, pictures, and tears :)
+
+### Contribute your solutions:
+https://github.com/victoriamccray/Hackathon/blob/main/CONTRIBUTING.md
