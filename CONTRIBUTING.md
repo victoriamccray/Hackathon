@@ -1,47 +1,67 @@
-# Overview
+# Contributing to the Hackathon Repository
 
-# How to Contribute
+Thank you for participating in the hackathon! This repository is a place where you can showcase your work, explore others’ projects, and access shared resources in the spirit of open science. Below are simple steps to contribute, even if you’re new to GitHub.
 
-## Contributing a Research or Software Solution
+## **1. Set Up GitHub**
+1. If you don’t already have a GitHub account, sign up at [GitHub.com](https://github.com).
+2. Install [Git](https://git-scm.com/downloads) on your computer if you plan to work locally (optional for beginners).
 
-### Submit a Pull Request
+## **2. Fork the Repository**
+1. Open the hackathon repository on GitHub.
+2. Click the **Fork** button (top-right) to create your own copy of the repository.
 
-Thank you for considering contributing to this project! Your contributions help make this project better for everyone. Whether you're interested in submitting specific research insights, software solutions, or other types of contributions, we appreciate your involvement in this initiative.
+## **3. Add Your Work (Easy Way - Using GitHub Website)**
+1. In your forked repository, navigate to the appropriate folder (or create a new one under `projects/` using your name or team name).
+2. Click the **Add file** button → **Upload files**.
+3. Add your research findings, insights, or solutions to your forked repository. Ensure that your contributions adhere to any formatting or documentation guidelines specified in the repository. Drag and drop your files (notebooks, scripts, datasets, images, etc.). 
+4. Click **Commit changes** and add a short description.
 
-## How to Contribute
+## **4. Add Your Work (Advanced Way - Using Git Locally)**
+1. Clone your forked repository to your computer:
+   ```bash
+   git clone https://github.com/YOUR_GITHUB_USERNAME/HACKATHON_REPO.git
+   ```
+2. Create a new branch for your work:
+   ```bash
+   git checkout -b my-contribution
+   ```
+3. Add your files to the correct folder, then save and commit:
+   ```bash
+   git add .
+   git commit -m "Added my project"
+   ```
+4. Push your changes back to GitHub:
+   ```bash
+   git push origin my-contribution
+   ```
 
-### Research Solutions
+## **5. Submit a Pull Request (PR)**
+1. Go to your forked repository on GitHub.
+2. Click **Compare & pull request**.
+3. Add a brief title and description of your contribution.
+4. Click **Create pull request**. That’s it!
 
-If you have specific research findings, insights, or solutions that you would like to share with the broader open source and open community, we welcome your contributions! To submit your research solutions to the repository, please follow these steps:
+## **6. Explore and Learn**
+- Check out others’ projects and leave comments or questions.
+- Access shared datasets and tutorials in the repository.
+- If you need help, check the **Issues** section or ask a facilitator.
 
-1. **Fork the Repository**: Click the "Fork" button at the top right corner of this repository to create your own copy of the project.
+---
 
-2. **Make Changes**: Add your research findings, insights, or solutions to your forked repository. Ensure that your contributions adhere to any formatting or documentation guidelines specified in the repository.
+Thank you for contributing! By participating, you're helping to build a collaborative open science community.
 
-3. **Create a Pull Request**: Once you're satisfied with your contributions, submit a pull request to propose your changes to the main project repository. Provide a clear and detailed description of your contributions in the pull request, including any relevant context or background information.
+## Code of Conduct  
 
-4. **Review and Collaboration**: Collaborate with other contributors and maintainers to review and refine your contributions. Be open to feedback and suggestions from the community, and work together to improve the quality and impact of your research solutions.
+This project aims to foster a respectful and inclusive environment for all contributors. A formal Code of Conduct will be published soon. In the meantime, we ask everyone to engage with professionalism and kindness.  
 
-### Software Solutions
+## Guidelines and Standards  
 
-If you have developed software tools, libraries, or applications that you believe would benefit the community, we encourage you to contribute them to the repository! To submit your software solutions, please follow these steps:
+To ensure high-quality contributions, we will establish a set of guidelines covering documentation, coding style, and best practices. These will be shared soon.  
 
-1. **Fork the Repository**: Click the "Fork" button at the top right corner of this repository to create your own copy of the project.
+## Compensation  
 
-2. **Make Changes**: Add your software solutions to your forked repository. Ensure that your contributions adhere to any coding standards, formatting guidelines, or documentation requirements specified in the repository.
+We recognize the time and expertise contributors invest in this project. While the process for potential honoraria is still being explored, we encourage interested contributors to fill out this form to express interest: [TBD](compensation-google-form).  
 
-3. **Create a Pull Request**: Once you're satisfied with your contributions, submit a pull request to propose your changes to the main project repository. Provide a clear and detailed description of your contributions in the pull request, including any relevant usage instructions or documentation.
+---  
 
-4. **Testing and Integration**: Collaborate with other contributors and maintainers to test and integrate your software solutions into the main project repository. Ensure that your contributions are well-tested, reliable, and compatible with the existing codebase.
-
-## Code of Conduct
-
-[Project Name] follows a code of conduct to ensure respectful and inclusive interactions among contributors. Please review our code of conduct [TBD](link-to-code-of-conduct).
-
-## Guidelines and Standards
-
-This project adheres to certain guidelines and standards to maintain consistency and quality in contributions. Please review our guidelines and standards [TBD](link-to-guidelines).
-
-## Compensation
-
-This project was created with the intention of compensating individuals for the time and expertise dedicated to building effective solutions. While the process for this is still being explored, please complete the following form if you are interested in seeking an honorarium for your contributions [TBD](compensation-google-form).
+Updates will be provided as these policies are finalized. Thank you for your contributions!  
