@@ -91,7 +91,10 @@ Feb 10 - 21, 2025
 A compiled opportunity list for relevant courses, trainings, and continued learning from TReND in Africa, Black In Neuro, and other organizations: https://docs.google.com/spreadsheets/d/1HC4_1JtP9Md8OreAJPa7eFLNZDCsg4-gwbw0l6PCt-c/edit?usp=sharing
 
 ## Acknowledgements
-This project is made possible through the support of multiple collaborative partners. I would like to extend my gratitude to my mentor Juliet Davidow and the support of the Learning and Brain Development Lab for guidance on the vision. I am grateful to TReND in Africa for cultivating and facilitating the partnership with Lilongwe University for Agriculture and Natural Resources (LUANAR). The in-person workshop is coordinated with the support of Agriculture and Policy Analysis at LUANAR, and I extend my warm thank you to the organization for the collaboration. The hackathon is made possible through the collaborative support of Black In Neuro and contributions from Meta Reality Labs. I would also like to thank the Center for Emerging Markets at Northeastern University for the support as a recipient of the Srinivasan Award that was able to facilitate the project.
+This project is made possible through the support of multiple collaborative partners. 
+<br><br>I am grateful to TReND in Africa for cultivating and facilitating the partnership with Lilongwe University for Agriculture and Natural Resources (LUANAR). The in-person workshop is coordinated with the support of the African Centre for Excellence (Agriculture and Policy Analysis) at LUANAR, and I extend my warm thank you to the organization for the collaboration.
+<br><br>I would like to extend my gratitude to my mentor Juliet Davidow and the support of the Learning and Brain Development Lab for guidance on the vision. I would also like to thank the Center for Emerging Markets at Northeastern University for the support as a recipient of the Srinivasan Award that was able to facilitate the project. 
+<br><br>Moreover, the hackathon is made possible through the collaborative support of Black In Neuro and contributions from Meta Reality Labs.
 
 ## Contributors and Special Thanks
 Claire Fielder, Research Assistant
