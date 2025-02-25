@@ -93,12 +93,21 @@ A compiled opportunity list for relevant courses, trainings, and continued learn
 ## Acknowledgements
 This project is made possible through the support of multiple collaborative partners. 
 <br><br>I am grateful to TReND in Africa for cultivating and facilitating the partnership with Lilongwe University for Agriculture and Natural Resources (LUANAR). The in-person workshop is coordinated with the support of the African Centre for Excellence (Agriculture and Policy Analysis) at LUANAR, and I extend my warm thank you to the organization for the collaboration.
-<br><br>I would like to extend my gratitude to my mentor Juliet Davidow and the support of the Learning and Brain Development Lab for guidance on the vision. I would also like to thank the Center for Emerging Markets at Northeastern University for the support as a recipient of the Srinivasan Award that was able to facilitate the project. 
+<br><br>I would like to extend my gratitude to my mentor Juliet Davidow, PhD and the support of the Learning and Brain Development Lab for guidance on the vision. I would also like to thank the Center for Emerging Markets at Northeastern University for the support as a recipient of the Srinivasan Award that was able to facilitate the project. 
 <br><br>Moreover, the hackathon is made possible through the collaborative support of Black In Neuro and contributions from Meta Reality Labs.
 
 ## Contributors and Special Thanks
 Claire Fielder, Research Assistant
 <br>Learning and Brain Development Lab, Northeastern University
+
+<br><br>Paige Greenwood, PhD
+<br>Co-Director of Programming, Black In Neuro | Policy and Education Scientist
+
+<br><br>Clíona Murray, PhD
+<br>Co-Director of Programming, Black In Neuro | Post-Doctoral Fellow, Yale University
+
+<br><br>De-Shaine Murray, PhD
+<br>President, Black In Neuro | Post-Doctoral Fellow, Yale University
 
 ## Additional Inspiration
 
