@@ -20,3 +20,6 @@
 
 ### Contribute your solutions:
 https://github.com/victoriamccray/Hackathon/blob/main/CONTRIBUTING.md
+
+### Hackathon Close and Additional Resources: https://docs.google.com/presentation/d/18x8RVpaOYxPWcX47P0CDdRfBB-84lbkZoD3dIs2YQDM/edit?usp=drivesdk
+
