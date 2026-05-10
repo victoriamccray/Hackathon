@@ -1,3 +1,3 @@
 ### Conference Tutorials and Case Study Presentations
 
-1. IEEE ML Signal Processing 2026 (Atlanta, GA)
+1. Ethical and Algorithmic Bias Foundations for ML in Neuroimaging: A Practical Open Science Case Study
