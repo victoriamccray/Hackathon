@@ -5,7 +5,7 @@ The two week program bridges interdisciplinary topics such as neuroscience, data
 # Short Course
 
 <br>**Location:**
-Lilongwe University for Agriculture and Natural Resources (LUANAR)
+Lilongwe University of Agriculture and Natural Resources (LUANAR)
 <br>**Dates:**
 Feb 10 - 21, 2025
 
